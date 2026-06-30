@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Ray" size="0.100000 0.133333" />
+    <ImageTarget name="Back" size="0.100000 0.133333" />
+    <ImageTarget name="Kuma" size="0.200000 0.266667" />
+  </Tracking>
+</QCARConfig>
