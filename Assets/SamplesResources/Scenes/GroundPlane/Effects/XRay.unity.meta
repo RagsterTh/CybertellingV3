@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d50f7846992aa42da83785d6d7441ee3
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/Scenes/GroundPlane/Effects/XRay.unity
+  uploadId: 787606

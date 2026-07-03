@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aee5ef54682095f40b761be4dffe691d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/Resources/VuforiaModels/VSY_Pump_360/VSYPump_360/Materials/default--constant-color9.mat
+  uploadId: 787606

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c70462eba1f2a4a63b7e13fe705bb663
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/Scenes/ModelTargets/RecognitionEffects/XRayAxial.unity
+  uploadId: 787606

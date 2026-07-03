@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8eebc2b1a9243408ca244c84e735c7d3
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Shaders/Transparent/XRay.shader
+  uploadId: 787606

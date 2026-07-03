@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1d128b3001a714f189203d51bb5c1f8c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Prefabs/VisualEffects/VFX_Phantom_orange_fade_in.prefab
+  uploadId: 787606

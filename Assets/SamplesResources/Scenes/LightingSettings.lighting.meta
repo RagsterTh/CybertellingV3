@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4e8ebd4a66e6b6b4489cb7516fd7c3c3
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/Scenes/LightingSettings.lighting
+  uploadId: 787606

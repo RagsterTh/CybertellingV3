@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d58e317fef684563b4dbfe9b05659141
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Shaders/Unlit/Vignette.shader
+  uploadId: 787606

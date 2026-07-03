@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a354647df3e744ffebbb9f75d0ab987c
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Shaders/VuforiaVFX.cginc
+  uploadId: 787606

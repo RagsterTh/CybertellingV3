@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 89845f1d6f9814862bbc7734b0740733
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/Scenes/ModelTargets/VisualizationEffects/XRay.unity
+  uploadId: 787606

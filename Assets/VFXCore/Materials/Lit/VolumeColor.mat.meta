@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3c2c25457274402191f9dc529dc86b7
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Materials/Lit/VolumeColor.mat
+  uploadId: 787606

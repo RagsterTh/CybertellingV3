@@ -1,0 +1,10 @@
+﻿<Solution>
+  <Project Path="CommonScripts.csproj" />
+  <Project Path="VFXCore.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="CommonEditor.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="VFXLibraryScripts.csproj" />
+  <Project Path="VuforiaVersionCheckerScripts.csproj" />
+  <Project Path="VFXCoreEditor.csproj" />
+</Solution>

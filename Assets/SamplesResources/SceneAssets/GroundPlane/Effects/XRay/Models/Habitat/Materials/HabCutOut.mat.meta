@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa75fef8f8ee94cfda5cf46b7718831f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/SceneAssets/GroundPlane/Effects/XRay/Models/Habitat/Materials/HabCutOut.mat
+  uploadId: 787606

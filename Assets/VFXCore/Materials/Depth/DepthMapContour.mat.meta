@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cf09f5c6712d64a71ac01ebe9ebe2d47
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Materials/Depth/DepthMapContour.mat
+  uploadId: 787606

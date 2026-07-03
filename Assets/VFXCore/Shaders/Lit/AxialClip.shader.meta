@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 67cfdedef7e3f054795b8f689dbacdbe
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Shaders/Lit/AxialClip.shader
+  uploadId: 787606

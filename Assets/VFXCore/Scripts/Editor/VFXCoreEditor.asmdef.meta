@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0808feff758d24599ab58fb2ee3f48a4
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Scripts/Editor/VFXCoreEditor.asmdef
+  uploadId: 787606

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0c0d76a82a5194eefb73513f1c1a8765
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Shaders/Transparent/LightWave.shader
+  uploadId: 787606

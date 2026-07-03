@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6a82174bc2b764b488945d2dfa2158b9
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/Scenes/AreaTargets/VisualizationEffects/Minimap.unity
+  uploadId: 787606

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2a23f57caa68a467899616d133af9749
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/SceneAssets/GroundPlane/Effects/InteractivePlacement/Materials/LanderAxialClip.mat
+  uploadId: 787606

@@ -8,9 +8,56 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Samples/ImageTarget/ImageTargetScene.unity
     guid: 23a8323017d6d4c75a3f678767db9b1b
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/0-Splash.unity
+    guid: 7238041e8d31f4d439b8851a5d4bb6fa
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/1-Menu.unity
+    guid: 1763269b9427b4a44957006a02f06c30
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/ModelTargets/RecognitionEffects/ContourAxial.unity
+    guid: c40cad03fa97e4155abfedc72a1e82f7
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/ModelTargets/RecognitionEffects/ContourRadial.unity
+    guid: 23f186b06a7d84d1f83daa3b5ff1f652
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/ModelTargets/RecognitionEffects/PhantomAxial.unity
+    guid: 81b56f3d44e16487b81d78cf66ad00e3
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/ModelTargets/RecognitionEffects/XRayAxial.unity
+    guid: c70462eba1f2a4a63b7e13fe705bb663
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/ModelTargets/VisualizationEffects/HeatMap.unity
+    guid: ddfcf4a4d7e094df4bedff400d5e9f09
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/ModelTargets/VisualizationEffects/XRay.unity
+    guid: 89845f1d6f9814862bbc7734b0740733
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/ModelTargets/VisualizationEffects/LookInside.unity
+    guid: 67ae4f7206b7e4488bfe822f5a7f9b45
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/ModelTargets/Combined/MultiVFX.unity
+    guid: 58c09ba4da1c8492ea6f3be81b6a2e93
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/GroundPlane/Effects/XRay.unity
+    guid: d50f7846992aa42da83785d6d7441ee3
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/GroundPlane/Effects/InteractivePlacement.unity
+    guid: 0551973ed1a934331bd4708428471383
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/ModelTargets/RecognitionEffects/LightWave.unity
+    guid: f5bae6d9466f14b57b8af13c4bd8009c
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/AreaTargets/RecognitionEffects/LightWave.unity
+    guid: 29dda4baa1fc6431099eed40516602a4
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/AreaTargets/RecognitionEffects/ContourScan.unity
+    guid: 1850d5b38b68e4bc880aac2239ca8db6
+  - enabled: 1
+    path: Assets/SamplesResources/Scenes/AreaTargets/VisualizationEffects/Minimap.unity
+    guid: 6a82174bc2b764b488945d2dfa2158b9
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
-    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: b4ca2c40fbcd24f66a3c5de1ac09e65e, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: a227b88b36db9441e8bb87d6a61da144, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8d8797d0db2d14abf8c8b025f9337406, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 64ace5216a2ab48169146d84ddb51595, type: 2}
   m_UseUCBPForAssetBundles: 0
