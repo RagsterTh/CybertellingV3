@@ -96,6 +96,10 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
       objectReference: {fileID: 2100000, guid: ac83ac566ba5fba488e2db58b6decf56, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 4413b88d9c407564d96a8e1516064c6b, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d41f6855cfc3962458cecf908992bc87, type: 2}
     - target: {fileID: -3778644264426962316, guid: 4413b88d9c407564d96a8e1516064c6b, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -289,6 +293,10 @@ PrefabInstance:
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
       objectReference: {fileID: 2100000, guid: faec3c543cc906e4da2f7c04e6c9e1ee, type: 2}
+    - target: {fileID: -4683669308469848369, guid: 4413b88d9c407564d96a8e1516064c6b, type: 3}
+      propertyPath: 'm_Materials.Array.data[2]'
+      value: 
+      objectReference: {fileID: 2100000, guid: faec3c543cc906e4da2f7c04e6c9e1ee, type: 2}
     - target: {fileID: -3195828791156449804, guid: 4413b88d9c407564d96a8e1516064c6b, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -332,6 +340,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 4413b88d9c407564d96a8e1516064c6b, type: 3}
       propertyPath: m_Name
       value: CarretaSenac 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4413b88d9c407564d96a8e1516064c6b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1442450553484104045, guid: 4413b88d9c407564d96a8e1516064c6b, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
