@@ -57,6 +57,7 @@ EditorBuildSettings:
     path: Assets/SamplesResources/Scenes/AreaTargets/VisualizationEffects/Minimap.unity
     guid: 6a82174bc2b764b488945d2dfa2158b9
   m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: a227b88b36db9441e8bb87d6a61da144, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8d8797d0db2d14abf8c8b025f9337406, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 64ace5216a2ab48169146d84ddb51595, type: 2}
   m_UseUCBPForAssetBundles: 0
