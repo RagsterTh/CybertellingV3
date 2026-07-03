@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a41f34fda32b64e8ebc06b88b0d2be76
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/SceneAssets/GroundPlane/Effects/XRay/Models/Habitat/Materials/HabXRay.mat
+  uploadId: 787606

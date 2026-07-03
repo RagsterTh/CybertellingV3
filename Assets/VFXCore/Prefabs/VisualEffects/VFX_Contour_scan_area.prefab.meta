@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 11ae9012522294371a0d9db6f3e97ad7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Prefabs/VisualEffects/VFX_Contour_scan_area.prefab
+  uploadId: 787606

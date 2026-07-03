@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 145a2e29d6a7e514bb163c83885a33ce
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/SceneAssets/GroundPlane/Effects/XRay/Models/Astronaut/Astronaut.mtl
+  uploadId: 787606

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81b56f3d44e16487b81d78cf66ad00e3
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/Scenes/ModelTargets/RecognitionEffects/PhantomAxial.unity
+  uploadId: 787606

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 07c3f2d0785c14842a6ed53b7738dbd5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Scripts/VFX/MaterialReplacer.cs
+  uploadId: 787606

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 58c09ba4da1c8492ea6f3be81b6a2e93
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/Scenes/ModelTargets/Combined/MultiVFX.unity
+  uploadId: 787606

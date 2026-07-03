@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6a8740427f8c534ab4bc4d8ad4f7c7e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/SceneAssets/GroundPlane/Effects/XRay/Models/Drone/Animations/drone-scan-off-to-on.anim
+  uploadId: 787606

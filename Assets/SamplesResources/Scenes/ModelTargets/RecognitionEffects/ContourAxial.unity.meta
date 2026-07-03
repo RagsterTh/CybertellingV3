@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c40cad03fa97e4155abfedc72a1e82f7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/Scenes/ModelTargets/RecognitionEffects/ContourAxial.unity
+  uploadId: 787606

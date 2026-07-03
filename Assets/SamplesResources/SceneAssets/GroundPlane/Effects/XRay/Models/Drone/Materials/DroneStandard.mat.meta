@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cdb63ea0827a444a99740ff30e2a86ec
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/SceneAssets/GroundPlane/Effects/XRay/Models/Drone/Materials/DroneStandard.mat
+  uploadId: 787606

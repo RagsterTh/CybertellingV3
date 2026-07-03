@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5387d0c15f8cb4cb7aeb047070aaaac2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Prefabs/Interaction/GroundPlaneAugmentationPlacement.prefab
+  uploadId: 787606

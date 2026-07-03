@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ed6c60d9ac934a6daab14c1fb13762e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/Resources/VuforiaModels/VSY_Pump_360/VSYPump_360.prefab
+  uploadId: 787606

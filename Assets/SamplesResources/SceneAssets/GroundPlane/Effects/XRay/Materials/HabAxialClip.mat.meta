@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f5a4a5bfcf9624ec3849481f9c897261
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/SceneAssets/GroundPlane/Effects/XRay/Materials/HabAxialClip.mat
+  uploadId: 787606

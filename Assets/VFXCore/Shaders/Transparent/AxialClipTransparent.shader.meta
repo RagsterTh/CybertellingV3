@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 126016f5508e9419590e4c8109a3cf36
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Shaders/Transparent/AxialClipTransparent.shader
+  uploadId: 787606

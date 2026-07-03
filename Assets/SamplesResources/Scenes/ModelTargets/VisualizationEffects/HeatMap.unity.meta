@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ddfcf4a4d7e094df4bedff400d5e9f09
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/Scenes/ModelTargets/VisualizationEffects/HeatMap.unity
+  uploadId: 787606
