@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c69767328bb9d412eae1bbfdc3d7236c
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Shaders/Depth/DepthNormalContour.shader
+  uploadId: 787606

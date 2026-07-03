@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 26d95395f3ca34267b7e5837d1e1a190
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Prefabs/VisualEffects/VFX_XRay_white_fade_in.prefab
+  uploadId: 787606

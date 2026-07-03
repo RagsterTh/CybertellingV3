@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c1bc7a414539d44b9b97edfcda823368
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/SceneAssets/Common/Prefabs/Pump_ext_metal.prefab
+  uploadId: 787606

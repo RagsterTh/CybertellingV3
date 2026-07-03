@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6b93aa613a1944b65a0b86a1b9d4e7e5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Scripts/Vuforia/VuforiaObserverUtil.cs
+  uploadId: 787606

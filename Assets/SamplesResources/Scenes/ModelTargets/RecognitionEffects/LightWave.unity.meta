@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f5bae6d9466f14b57b8af13c4bd8009c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/Scenes/ModelTargets/RecognitionEffects/LightWave.unity
+  uploadId: 787606

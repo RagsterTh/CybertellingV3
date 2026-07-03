@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d69d192d71ce78949a594ccecc71c81b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Shaders/Depth/DepthMaskSphereCut.shader
+  uploadId: 787606

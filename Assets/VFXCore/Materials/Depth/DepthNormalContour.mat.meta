@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 55b5cd93960404977b1336501a0ad186
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Materials/Depth/DepthNormalContour.mat
+  uploadId: 787606

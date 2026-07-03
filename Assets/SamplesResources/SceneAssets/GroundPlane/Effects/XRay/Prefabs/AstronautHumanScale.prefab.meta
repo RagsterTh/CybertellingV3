@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: add6b05c5abb34cb1aec5320d4b9fd2c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/SceneAssets/GroundPlane/Effects/XRay/Prefabs/AstronautHumanScale.prefab
+  uploadId: 787606

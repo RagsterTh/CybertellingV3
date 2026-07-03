@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 770cf314a74004c9ca611f6d222d98ab
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Prefabs/VisualEffects/VFX_XRay_radial_scan.prefab
+  uploadId: 787606

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 23f186b06a7d84d1f83daa3b5ff1f652
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/Scenes/ModelTargets/RecognitionEffects/ContourRadial.unity
+  uploadId: 787606

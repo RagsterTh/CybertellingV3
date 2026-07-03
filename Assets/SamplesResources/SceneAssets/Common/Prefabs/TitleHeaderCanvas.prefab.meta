@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4cf414cea6c734fa38a58e5d9c37f9c0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/SceneAssets/Common/Prefabs/TitleHeaderCanvas.prefab
+  uploadId: 787606

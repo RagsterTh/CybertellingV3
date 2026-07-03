@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5d2b280df39ab8247b1ff0c20e91d814
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/SceneAssets/GroundPlane/Effects/XRay/Models/Astronaut/Materials/AstronautFill.mat
+  uploadId: 787606

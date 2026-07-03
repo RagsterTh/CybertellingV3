@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 50a483d19f894f3d89258d9b27e8d3d2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/StreamingAssets/Vuforia/VSY_Pump_360.xml
+  uploadId: 787606

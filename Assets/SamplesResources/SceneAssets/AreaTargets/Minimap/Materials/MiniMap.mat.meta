@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d9ea7c8ba0ba43528776904eb484102
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/SceneAssets/AreaTargets/Minimap/Materials/MiniMap.mat
+  uploadId: 787606

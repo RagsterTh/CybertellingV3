@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0894399fdd85a4286b43738a10bdd08b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Prefabs/VisualEffects/VFX_Look_inside.prefab
+  uploadId: 787606

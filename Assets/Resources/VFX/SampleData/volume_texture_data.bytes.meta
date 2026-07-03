@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9a367582137d24362baf7c953f17ed7b
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/Resources/VFX/SampleData/volume_texture_data.bytes
+  uploadId: 787606

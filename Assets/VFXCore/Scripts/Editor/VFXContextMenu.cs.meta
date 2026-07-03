@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fed8778158c094e3caa6d6c71c008bfd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/VFXCore/Scripts/Editor/VFXContextMenu.cs
+  uploadId: 787606

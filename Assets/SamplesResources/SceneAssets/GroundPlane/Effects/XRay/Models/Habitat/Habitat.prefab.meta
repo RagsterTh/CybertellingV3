@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bc62d875cd64e4dfd8611ff7ecc05bf8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/SceneAssets/GroundPlane/Effects/XRay/Models/Habitat/Habitat.prefab
+  uploadId: 787606

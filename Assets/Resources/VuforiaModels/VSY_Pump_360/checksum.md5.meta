@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3900820851bd04431bd65551f4ca425c
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/Resources/VuforiaModels/VSY_Pump_360/checksum.md5
+  uploadId: 787606

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0551973ed1a934331bd4708428471383
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 206265
+  packageName: Vuforia VFX Library
+  packageVersion: 11.4.4
+  assetPath: Assets/SamplesResources/Scenes/GroundPlane/Effects/InteractivePlacement.unity
+  uploadId: 787606
