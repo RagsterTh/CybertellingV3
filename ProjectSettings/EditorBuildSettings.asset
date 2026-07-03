@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Samples/ImageTarget/ImageTargetScene.unity
+    guid: 23a8323017d6d4c75a3f678767db9b1b
+  - enabled: 1
     path: Assets/SamplesResources/Scenes/0-Splash.unity
     guid: 7238041e8d31f4d439b8851a5d4bb6fa
   - enabled: 1
