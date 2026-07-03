@@ -295,7 +295,6 @@ MonoBehaviour:
   features:
   - {fileID: 7215323293642976828}
   - {fileID: 2770229397869743191}
-  - {fileID: -3064902842402400069}
   - {fileID: 830636920703413352}
   - {fileID: 250794385925170817}
   - {fileID: -2477467538734289591}
@@ -1101,7 +1100,7 @@ MonoBehaviour:
   m_symmetricProjection: 0
   m_optimizeMultiviewRenderRegions: 0
   m_multiviewRenderRegionsOptimizationMode: 0
-  m_hasMigratedMultiviewRenderRegionSetting: 0
+  m_hasMigratedMultiviewRenderRegionSetting: 1
   m_foveatedRenderingApi: 0
   m_useOpenXRPredictedTime: 0
 --- !u!114 &-2195371382258515795
