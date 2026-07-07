@@ -572,6 +572,10 @@ PrefabInstance:
       propertyPath: targetScale.z
       value: 0.23
       objectReference: {fileID: 0}
+    - target: {fileID: 8674370829345111665, guid: 333928a99a9e81b4c9cd12b4d51c5196, type: 3}
+      propertyPath: activationFollowupSfx
+      value: 
+      objectReference: {fileID: 8300000, guid: 3093c3c5f18802847b50b641bdd15021, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -671,6 +675,10 @@ PrefabInstance:
       propertyPath: targetScale.z
       value: 0.16
       objectReference: {fileID: 0}
+    - target: {fileID: 2409695306528243863, guid: 800332f8d2cdf6642a517ac6e198a86d, type: 3}
+      propertyPath: activationFollowupSfx
+      value: 
+      objectReference: {fileID: 8300000, guid: cd010c3ac635a0242b833b5c755091f1, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2427,6 +2435,10 @@ PrefabInstance:
       propertyPath: targetScale.z
       value: 0.13
       objectReference: {fileID: 0}
+    - target: {fileID: 8853298473435905912, guid: f4ffd5217d2386949a55d7335e537a3c, type: 3}
+      propertyPath: activationFollowupSfx
+      value: 
+      objectReference: {fileID: 8300000, guid: a0c166bf0f980af48a04789f1f365df3, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
