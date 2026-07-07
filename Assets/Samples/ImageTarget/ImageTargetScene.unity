@@ -1001,14 +1001,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: "Ta\xE7a Copa "
+  mTrackableName: "Ta\xE7aCopaReal"
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/QuestVuforiaTargets.xml
-  mAspectRatio: 1
+  mAspectRatio: 1.0125195
   mImageTargetType: 3
-  mWidth: 0.2077922
-  mHeight: 0.2077922
-  mRuntimeTexture: {fileID: 2800000, guid: 279ff133b42c34f48a539f1d7f1d86de, type: 3}
+  mWidth: 0.20522289
+  mHeight: 0.20779218
+  mRuntimeTexture: {fileID: 2800000, guid: 57450449b560e204bb8b094369d7615e, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -1043,7 +1043,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 712698824}
   mHiddenRoot: {fileID: 0}
-  mTargetName: "Ta\xE7a Copa "
+  mTargetName: "Ta\xE7aCopaReal"
   mDatasetName: Vuforia/QuestVuforiaTargets.xml
   mCastedBehaviour: {fileID: 712698824}
   mMeshFilter: {fileID: 0}
@@ -1308,7 +1308,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 940863803}
   mHiddenRoot: {fileID: 0}
-  mTargetName: ArcadeCubo
+  mTargetName: ArcadeCuboReal
   mDatasetName: Vuforia/QuestVuforiaTargets.xml
   mCastedBehaviour: {fileID: 940863803}
   mMeshFilter: {fileID: 0}
@@ -1396,14 +1396,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: ArcadeCubo
+  mTrackableName: ArcadeCuboReal
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/QuestVuforiaTargets.xml
-  mAspectRatio: 1
+  mAspectRatio: 0.87937504
   mImageTargetType: 3
   mWidth: 0.2077922
-  mHeight: 0.2077922
-  mRuntimeTexture: {fileID: 2800000, guid: 2f9d892a1afbaf649b8afded42572975, type: 3}
+  mHeight: 0.18272726
+  mRuntimeTexture: {fileID: 2800000, guid: 31df27ec11a313844b8b62dbb0040ce4, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -3031,7 +3031,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 2097657611}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Carreta
+  mTargetName: CarretaReal
   mDatasetName: Vuforia/QuestVuforiaTargets.xml
   mCastedBehaviour: {fileID: 2097657611}
   mMeshFilter: {fileID: 0}
@@ -3119,14 +3119,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Carreta
+  mTrackableName: CarretaReal
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/QuestVuforiaTargets.xml
-  mAspectRatio: 1
+  mAspectRatio: 1.0062892
   mImageTargetType: 3
-  mWidth: 0.2077922
-  mHeight: 0.2077922
-  mRuntimeTexture: {fileID: 2800000, guid: df017892b77bf774280f29bcfe9df9f2, type: 3}
+  mWidth: 0.2064935
+  mHeight: 0.20779218
+  mRuntimeTexture: {fileID: 2800000, guid: 3bf0f23ca6223574e9538d983a7590ee, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
@@ -3180,7 +3180,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 2101905779}
   mHiddenRoot: {fileID: 0}
-  mTargetName: Cristo Redentor
+  mTargetName: CristoRedentorReal
   mDatasetName: Vuforia/QuestVuforiaTargets.xml
   mCastedBehaviour: {fileID: 2101905779}
   mMeshFilter: {fileID: 0}
@@ -3268,14 +3268,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: Cristo Redentor
+  mTrackableName: CristoRedentorReal
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/QuestVuforiaTargets.xml
-  mAspectRatio: 1
+  mAspectRatio: 0.98875004
   mImageTargetType: 3
   mWidth: 0.2077922
-  mHeight: 0.2077922
-  mRuntimeTexture: {fileID: 2800000, guid: 3fc4b6972a812c34682847cd219234e8, type: 3}
+  mHeight: 0.20545454
+  mRuntimeTexture: {fileID: 2800000, guid: 38bb20489944e124d9f61dc8bd3157d3, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0

@@ -173,7 +173,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ObjectSfxAndAnimation
   audioSource: {fileID: -2674511490833422253}
   activationSfx: {fileID: 8300000, guid: d453d5ad15ac86c43bba4220254c0dc6, type: 3}
-  activationFollowupSfx: {fileID: 0}
+  activationFollowupSfx: {fileID: 8300000, guid: cd010c3ac635a0242b833b5c755091f1, type: 3}
   activationVolume: 1
   activationPitch: 1
   targetScale: {x: 10, y: 10, z: 10}
