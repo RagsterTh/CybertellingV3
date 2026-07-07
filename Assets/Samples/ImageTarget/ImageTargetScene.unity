@@ -682,10 +682,7 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 203174304074589497, guid: 800332f8d2cdf6642a517ac6e198a86d, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 487171193}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 800332f8d2cdf6642a517ac6e198a86d, type: 3}
 --- !u!1 &487171191 stripped
 GameObject:
@@ -697,28 +694,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 691867002023329667, guid: 800332f8d2cdf6642a517ac6e198a86d, type: 3}
   m_PrefabInstance: {fileID: 487171190}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &487171193
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 487171191}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6263728522fdeb74398f0cbab9292e16, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ObjectSfxAndAnimation
-  audioSource: {fileID: 0}
-  activationSfx: {fileID: 0}
-  activationFollowupSfx: {fileID: 0}
-  activationVolume: 1
-  activationPitch: 1
-  targetScale: {x: 0.01, y: 0.01, z: 0.01}
-  scaleDuration: 1
-  scaleEase: 27
-  secondsPerTurn: 30
-  rotationEase: 1
 --- !u!1 &639556799
 GameObject:
   m_ObjectHideFlags: 0
@@ -3180,7 +3155,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
   mObserverBehaviour: {fileID: 2101905779}
   mHiddenRoot: {fileID: 0}
-  mTargetName: CristoRedentorReal
+  mTargetName: Cristo Redentor
   mDatasetName: Vuforia/QuestVuforiaTargets.xml
   mCastedBehaviour: {fileID: 2101905779}
   mMeshFilter: {fileID: 0}
@@ -3268,14 +3243,14 @@ MonoBehaviour:
   PreviewVisible: 1
   RuntimeOcclusion: 0
   RuntimeCollider: 0
-  mTrackableName: CristoRedentorReal
+  mTrackableName: Cristo Redentor
   mInitializedInEditor: 1
   mDataSetPath: Vuforia/QuestVuforiaTargets.xml
-  mAspectRatio: 0.98875004
+  mAspectRatio: 1
   mImageTargetType: 3
   mWidth: 0.2077922
-  mHeight: 0.20545454
-  mRuntimeTexture: {fileID: 2800000, guid: 38bb20489944e124d9f61dc8bd3157d3, type: 3}
+  mHeight: 0.2077922
+  mRuntimeTexture: {fileID: 2800000, guid: 3fc4b6972a812c34682847cd219234e8, type: 3}
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
