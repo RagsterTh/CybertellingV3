@@ -42,8 +42,9 @@ public class ObjectSfxAndAnimation : MonoBehaviour
 
         if (ExperienceMnager.Instance.AllTargetsFound())
         {
-            ExperienceMnager.Instance.OnGameFinish?.Invoke();
+            //ExperienceMnager.Instance.OnGameFinish?.Invoke();
         }
+        ExperienceMnager.Instance.OnGameFinish?.Invoke();
         gameObject.SetActive(false);
     }
     private void PlayActivationAnimation()
