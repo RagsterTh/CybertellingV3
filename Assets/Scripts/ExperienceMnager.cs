@@ -25,6 +25,7 @@ public class ExperienceMnager : MonoBehaviour
     IEnumerator LoadSceneAfterDelay()
     {
         yield return new WaitForSeconds(_delayToReloadScene);
+        _credits.SetActive(false);
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
     public void FoundTarget(int targetIndex)
