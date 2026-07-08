@@ -35,7 +35,17 @@ public class ObjectSfxAndAnimation : MonoBehaviour
         StopAllTweens();
         StopAudioSequence();
     }
+    private void Update()
+    {
+        if (audioSource != null && audioSource.isPlaying)
+            return;
 
+        if (ExperienceMnager.Instance.AllTargetsFound())
+        {
+            ExperienceMnager.Instance.OnGameFinish?.Invoke();
+        }
+        gameObject.SetActive(false);
+    }
     private void PlayActivationAnimation()
     {
         StopAllTweens();
