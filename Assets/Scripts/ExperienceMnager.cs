@@ -20,25 +20,12 @@ public class ExperienceMnager : MonoBehaviour
     private void ShowCredits()
     {
         _credits.SetActive(true);
-        StartCoroutine(LoadSceneAfterDelay());
+        StartCoroutine(CloseCreditsAfterDelay());
     }
-    IEnumerator LoadSceneAfterDelay()
+    IEnumerator CloseCreditsAfterDelay()
     {
         yield return new WaitForSeconds(_delayToReloadScene);
         _credits.SetActive(false);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-    }
-    public void FoundTarget(int targetIndex)
-    {
-        _targetsFound[targetIndex] = true;
     }
 
-    public bool AllTargetsFound()
-    {
-        foreach (bool target in _targetsFound)
-        {
-            if (!target) return false;
-        }
-        return true;
-    }
 }
