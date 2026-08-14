@@ -40,14 +40,7 @@ public class ObjectSfxAndAnimation : MonoBehaviour
         if (audioSource != null && audioSource.isPlaying)
             return;
 
-<<<<<<< Updated upstream
-        if (ExperienceMnager.Instance.AllTargetsFound())
-        {
-            ExperienceMnager.Instance.OnGameFinish?.Invoke();
-        }
-=======
         ExperienceMnager.Instance.OnGameFinish?.Invoke();
->>>>>>> Stashed changes
         gameObject.SetActive(false);
     }
     private void PlayActivationAnimation()
