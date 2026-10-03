@@ -10,15 +10,19 @@ public static class QuestVuforiaBridge
     private const string LibraryName = "quforia";
 
     [DllImport(LibraryName)]
+    [return: MarshalAs(UnmanagedType.I1)]
     private static extern bool nativeSetCameraIntrinsics(float[] intrinsics, int length);
 
     [DllImport(LibraryName)]
+    [return: MarshalAs(UnmanagedType.I1)]
     private static extern bool nativeFeedDevicePose(float[] position, float[] rotation, long timestamp);
 
     [DllImport(LibraryName)]
+    [return: MarshalAs(UnmanagedType.I1)]
     private static extern bool nativeFeedCameraFrame(byte[] imageData, int width, int height, float[] intrinsics, int intrinsicsLength, long timestamp);
 
     [DllImport(LibraryName)]
+    [return: MarshalAs(UnmanagedType.I1)]
     private static extern bool nativeIsDriverInitialized();
 
     /// <summary>
@@ -26,7 +30,7 @@ public static class QuestVuforiaBridge
     /// </summary>
     public static bool SetCameraIntrinsics(float[] intrinsics)
     {
-        if (intrinsics == null || intrinsics.Length < 6)
+        if (intrinsics == null || intrinsics.Length < 14)
         {
             Debug.LogError("[Quforia] Invalid intrinsics array");
             return false;
@@ -50,7 +54,9 @@ public static class QuestVuforiaBridge
     /// </summary>
     public static bool FeedCameraFrame(byte[] imageData, int width, int height, float[] intrinsics, long timestamp)
     {
-        if (imageData == null || imageData.Length != width * height * 3)
+        if (imageData == null || width <= 0 || height <= 0 ||
+            imageData.LongLength != (long)width * height * 3 ||
+            (intrinsics != null && intrinsics.Length < 14))
         {
             Debug.LogError("[Quforia] Invalid image data");
             return false;

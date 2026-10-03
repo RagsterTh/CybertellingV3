@@ -28,7 +28,7 @@ bool nativeSetCameraIntrinsics(float* intrinsics, int length) {
         return false;
     }
 
-    if (!intrinsics || length < 6) {
+    if (!intrinsics || length < 14) {
         LOGE("Invalid intrinsics array");
         return false;
     }
@@ -73,8 +73,9 @@ bool nativeFeedCameraFrame(unsigned char* imageData, int width, int height,
         return false;
     }
 
-    if (!imageData) {
-        LOGE("Null image data");
+    if (!imageData || width != 1280 || height != 960 ||
+        (intrinsics != nullptr && intrinsicsLength < 14)) {
+        LOGE("Invalid camera frame or intrinsics");
         return false;
     }
 

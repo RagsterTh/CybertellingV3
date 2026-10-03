@@ -4144,9 +4144,6 @@ PrefabInstance:
       addedObject: {fileID: 973593081}
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 973593080}
-    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
-      insertIndex: -1
       addedObject: {fileID: 973593089}
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
@@ -4168,25 +4165,6 @@ MonoBehaviour:
   m_Script: {fileID: -1631628248, guid: 8a9a760f95896c34689febc965510927, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &973593080
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 27693134}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
-  mObserverBehaviour: {fileID: 973593079}
-  mHiddenRoot: {fileID: 0}
-  mTargetName: Pag 18 - 19
-  mDatasetName: Vuforia/QuestVuforiaTargets.xml
-  mCastedBehaviour: {fileID: 0}
-  mMeshFilter: {fileID: 0}
-  mMeshRenderer: {fileID: 0}
 --- !u!114 &973593081
 MonoBehaviour:
   m_ObjectHideFlags: 0

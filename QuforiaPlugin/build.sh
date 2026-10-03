@@ -19,11 +19,21 @@ echo -e "${GREEN}=====================================${NC}"
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 BUILD_DIR="$SCRIPT_DIR/build"
 UNITY_PLUGINS_DIR="$SCRIPT_DIR/../Assets/Plugins/Android/libs/arm64-v8a"
-NDK_PATH="C:\Program Files\Unity\Hub\Editor\6000.0.61f1\Editor\Data\PlaybackEngines\AndroidPlayer\NDK"
+UNITY_VERSION="$(sed -n 's/^m_EditorVersion: //p' "$SCRIPT_DIR/../ProjectSettings/ProjectVersion.txt")"
+NDK_PATH="${NDK_PATH:-}"
+if [ -z "$NDK_PATH" ]; then
+    for unity_root in "/c/Program Files/Unity/Hub/Editor" "/mnt/c/Program Files/Unity/Hub/Editor"; do
+        candidate="$unity_root/$UNITY_VERSION/Editor/Data/PlaybackEngines/AndroidPlayer/NDK"
+        if [ -d "$candidate" ]; then
+            NDK_PATH="$candidate"
+            break
+        fi
+    done
+fi
 
 # Check NDK exists
 if [ ! -d "$NDK_PATH" ]; then
-    echo -e "${RED}ERROR: NDK not found at $NDK_PATH${NC}"
+    echo -e "${RED}ERROR: NDK not found. Set NDK_PATH to your Android NDK directory.${NC}"
     exit 1
 fi
 

@@ -290,7 +290,7 @@ void QuestExternalCamera::frameDeliveryThread() {
         auto frameStartTime = std::chrono::steady_clock::now();
 
         // Acquire latest frame from driver
-        auto frameData = driver_->acquireLatestFrame();
+        auto frameData = driver_->acquireNextFrame();
 
         if (frameData && callback_) {
             // Prepare Vuforia frame structure
