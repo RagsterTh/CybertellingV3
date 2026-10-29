@@ -6,6 +6,7 @@
 #include <queue>
 #include <memory>
 #include <atomic>
+#include <cstring>
 
 // Forward declarations
 class QuestExternalCamera;
@@ -65,6 +66,7 @@ public:
 
     // Frame buffer management
     std::shared_ptr<CameraFrameData> acquireLatestFrame();
+    std::shared_ptr<CameraFrameData> acquireNextFrame();
     std::shared_ptr<PoseData> acquirePoseForTimestamp(int64_t timestamp);
 
 private:

@@ -18,7 +18,11 @@ public class VuforiaCameraPoseDriver : MonoBehaviour
 
     private void Awake()
     {
-        cameraAccess = GetComponent<MetaCameraProvider>().CameraAccess;
+        MetaCameraProvider provider = GetComponent<MetaCameraProvider>();
+        if (provider != null)
+            cameraAccess = provider.CameraAccess;
+        else
+            Debug.LogError("[Quforia] VuforiaCameraPoseDriver requires MetaCameraProvider on the same GameObject.");
     }
 
     private void LateUpdate()

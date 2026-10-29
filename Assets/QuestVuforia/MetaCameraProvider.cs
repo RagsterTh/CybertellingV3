@@ -30,6 +30,7 @@ public class MetaCameraProvider : MonoBehaviour
 
     private byte[] imageDataRGB;
     private bool isRunning = false;
+    private bool isInitializing = false;
     private int frameCount = 0;
     private int width, height;
     private float[] cachedIntrinsics;
@@ -60,7 +61,8 @@ public class MetaCameraProvider : MonoBehaviour
 
     public IEnumerator InitializeCamera()
     {
-        if (isRunning) yield break;
+        if (isRunning || isInitializing || cameraAccess == null) yield break;
+        isInitializing = true;
 
         Log("Initializing camera...");
 
@@ -81,6 +83,7 @@ public class MetaCameraProvider : MonoBehaviour
         if (!cameraAccess.IsPlaying)
         {
             Debug.LogError("[Quforia] Camera failed to start!");
+            isInitializing = false;
             yield break;
         }
 
@@ -88,6 +91,12 @@ public class MetaCameraProvider : MonoBehaviour
         Vector2Int resolution = cameraAccess.CurrentResolution;
         width = resolution.x;
         height = resolution.y;
+        if (width != 1280 || height != 960)
+        {
+            Debug.LogError($"[Quforia] Unsupported camera resolution: {width}x{height}. Expected 1280x960.");
+            isInitializing = false;
+            yield break;
+        }
         imageDataRGB = new byte[width * height * 3];
 
         var sensorRes = cameraAccess.Intrinsics.SensorResolution;
@@ -99,19 +108,33 @@ public class MetaCameraProvider : MonoBehaviour
         }
 
         // Setup intrinsics
-        SetupCameraIntrinsics();
+        elapsed = 0f;
+        while (!QuestVuforiaBridge.IsDriverInitialized() && elapsed < 10f)
+        {
+            yield return null;
+            elapsed += Time.deltaTime;
+        }
+        if (!QuestVuforiaBridge.IsDriverInitialized() || !SetupCameraIntrinsics())
+        {
+            Debug.LogError("[Quforia] Native driver or camera intrinsics unavailable.");
+            isInitializing = false;
+            yield break;
+        }
 
         isRunning = true;
+        isInitializing = false;
         lastStatsTime = Time.time;
         StartCoroutine(ProcessFrames());
     }
 
-    private void SetupCameraIntrinsics()
+    private bool SetupCameraIntrinsics()
     {
         try
         {
             var intrinsics = cameraAccess.Intrinsics;
             var sensorRes = intrinsics.SensorResolution;
+            if (sensorRes.x <= 0 || sensorRes.y <= 0)
+                throw new InvalidOperationException("Invalid camera sensor resolution");
 
 
             float sfX = (float)width / sensorRes.x;
@@ -142,16 +165,19 @@ public class MetaCameraProvider : MonoBehaviour
                 $"f=({intrinsics.FocalLength.x:F1},{intrinsics.FocalLength.y:F1}) " +
                 $"pp=({intrinsics.PrincipalPoint.x:F1},{intrinsics.PrincipalPoint.y:F1})");
 
-            QuestVuforiaBridge.SetCameraIntrinsics(cachedIntrinsics);
+            if (!QuestVuforiaBridge.SetCameraIntrinsics(cachedIntrinsics))
+                return false;
 
             Debug.Log($"[Quforia] Vuforia intr: fx={fx:F1} fy={fy:F1} cx={cx:F1} cy={cachedIntrinsics[5]:F1} " +
                 $"cropOff=({cropOffsetX:F0},{cropOffsetY:F0}) s={s:F3} flip={flipImageVertically} " +
                 $"(expect fy~=fx, cy~={height * 0.5f:F0})");
+            return true;
             
         }
         catch (Exception e)
         {
             Debug.LogError($"[Quforia] Failed to get intrinsics: {e.Message}");
+            return false;
         }
     }
 
@@ -175,7 +201,7 @@ public class MetaCameraProvider : MonoBehaviour
             }
 
             // Stats logging
-            if (showFrameStats && Time.time - lastStatsTime >= statsInterval)
+            if (showFrameStats && Time.time - lastStatsTime >= Mathf.Max(statsInterval, 0.01f))
             {
                 float fps = framesProcessed / (Time.time - lastStatsTime);
                 Log($"Processing: {fps:F1} FPS | Total: {frameCount}");
@@ -259,9 +285,9 @@ public class MetaCameraProvider : MonoBehaviour
 
     public void StopCamera()
     {
-        if (!isRunning) return;
-
         isRunning = false;
+        isInitializing = false;
+        StopAllCoroutines();
         if (cameraAccess != null && cameraAccess.enabled)
         {
             cameraAccess.enabled = false;

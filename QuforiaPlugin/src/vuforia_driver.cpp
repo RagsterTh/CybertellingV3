@@ -63,6 +63,9 @@ JNIEXPORT uint32_t JNICALL vuforiaDriver_getAPIVersion() {
 
 JNIEXPORT uint32_t JNICALL vuforiaDriver_getLibraryVersion(char* versionString, const uint32_t maxLen) {
     const char* version = "QuestVuforiaDriver 1.0.0";
+    if (versionString == nullptr || maxLen == 0) {
+        return 0;
+    }
     uint32_t len = strlen(version);
     if (len >= maxLen) {
         len = maxLen - 1;
@@ -321,6 +324,17 @@ std::shared_ptr<CameraFrameData> QuestVuforiaDriver::acquireLatestFrame() {
     // Return the latest frame (back of queue)
     // Don't pop it - let it age out naturally
     return frameQueue_.back();
+}
+
+std::shared_ptr<CameraFrameData> QuestVuforiaDriver::acquireNextFrame() {
+    std::lock_guard<std::mutex> lock(frameMutex_);
+    if (frameQueue_.empty()) {
+        return nullptr;
+    }
+
+    auto frame = frameQueue_.front();
+    frameQueue_.pop();
+    return frame;
 }
 
 std::shared_ptr<PoseData> QuestVuforiaDriver::acquirePoseForTimestamp(int64_t timestamp) {

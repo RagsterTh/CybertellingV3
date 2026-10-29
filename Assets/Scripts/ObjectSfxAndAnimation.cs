@@ -35,14 +35,6 @@ public class ObjectSfxAndAnimation : MonoBehaviour
         StopAllTweens();
         StopAudioSequence();
     }
-    private void Update()
-    {
-        if (audioSource != null && audioSource.isPlaying)
-            return;
-
-        ExperienceMnager.Instance.OnGameFinish?.Invoke();
-        gameObject.SetActive(false);
-    }
     private void PlayActivationAnimation()
     {
         StopAllTweens();
@@ -64,36 +56,37 @@ public class ObjectSfxAndAnimation : MonoBehaviour
 
     private void PlayActivationSfx()
     {
-        if (activationSfx == null)
-        {
-            return;
-        }
-
         AudioSource source = audioSource != null ? audioSource : GetComponent<AudioSource>();
-        if (source == null)
-        {
-            return;
-        }
-
         StopAudioSequence();
         audioSequenceRoutine = StartCoroutine(PlayAudioSequence(source));
     }
 
     private IEnumerator PlayAudioSequence(AudioSource source)
     {
-        source.pitch = activationPitch;
-        source.PlayOneShot(activationSfx, activationVolume);
-
-        float safePitch = Mathf.Max(0.01f, Mathf.Abs(activationPitch));
-        float waitTime = activationSfx.length / safePitch;
-        yield return new WaitForSeconds(waitTime);
-
-        if (activationFollowupSfx != null)
+        if (source != null)
         {
-            source.PlayOneShot(activationFollowupSfx, activationVolume);
+            source.pitch = activationPitch;
+            float safePitch = Mathf.Max(0.01f, Mathf.Abs(activationPitch));
+
+            if (activationSfx != null)
+            {
+                source.PlayOneShot(activationSfx, activationVolume);
+                yield return new WaitForSeconds(activationSfx.length / safePitch);
+            }
+
+            if (activationFollowupSfx != null)
+            {
+                source.PlayOneShot(activationFollowupSfx, activationVolume);
+                yield return new WaitForSeconds(activationFollowupSfx.length / safePitch);
+            }
         }
 
         audioSequenceRoutine = null;
+        if (ExperienceMnager.Instance != null)
+        {
+            ExperienceMnager.Instance.OnGameFinish?.Invoke();
+        }
+        gameObject.SetActive(false);
     }
 
     private void StartInfiniteRotation()
