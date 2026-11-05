@@ -142,7 +142,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2519613469961459235}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.112, y: 1.05, z: 1.609}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -766,7 +766,7 @@ Transform:
   m_GameObject: {fileID: 6571335899037520142}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.59, y: 1.05, z: 0.85}
+  m_LocalPosition: {x: 2.59, y: 0.92, z: 0.85}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1027,8 +1027,6 @@ PlayableDirector:
   m_SceneBindings:
   - key: {fileID: 1084128392284112614, guid: 86fac6cd994951c4499d902ec8604312, type: 2}
     value: {fileID: 424024535209912719}
-  - key: {fileID: -8399888312794561270, guid: 86fac6cd994951c4499d902ec8604312, type: 2}
-    value: {fileID: 7849294179965340100}
   m_ExposedReferences:
     m_References: []
 --- !u!1 &7386426350848243719
@@ -1267,6 +1265,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 451207881020625349}
     m_Modifications:
+    - target: {fileID: 3012179218885457338, guid: 9897b46624cb93242a7508e5aa5e8ee1, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8387555674136425850, guid: 9897b46624cb93242a7508e5aa5e8ee1, type: 3}
       propertyPath: m_Name
       value: Pinto_Jr
