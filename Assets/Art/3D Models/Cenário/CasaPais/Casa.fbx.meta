@@ -1,39 +1,9 @@
 fileFormatVersion: 2
-guid: d134269c471e5584aa36f9f8d386fb1e
+guid: 9063e1344df8d764281f820c7e328c1e
 ModelImporter:
   serializedVersion: 24600
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert3SG
-    second: {fileID: 2100000, guid: 8492833990a04b0aa1c76e1872aa2526, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert2SG
-    second: {fileID: 2100000, guid: 8492833990a04b0aa1c76e1872aa2526, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert5SG
-    second: {fileID: 2100000, guid: 9b946fc380cb4b5f9d5a43927963cf34, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert4SG
-    second: {fileID: 2100000, guid: 9b946fc380cb4b5f9d5a43927963cf34, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: pasted__pasted__pasted__pasted__lambert4SG3
-    second: {fileID: 2100000, guid: 9b946fc380cb4b5f9d5a43927963cf34, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: initialShadingGroup
-    second: {fileID: 2100000, guid: 8492833990a04b0aa1c76e1872aa2526, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
