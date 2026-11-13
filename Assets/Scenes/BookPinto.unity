@@ -162,23 +162,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "<b>PROJETO</b>\r\n\r\nDesenvolvido por\r\nAlunos e Professores do Senac
-    Palho\xE7a\r\n\r\n\r\n<b>COORDENA\xC7\xC3O</b>\r\n\r\nCl\xE1udio Roberto Martins\r\nDanielle
-    Martins Castro\r\nRenata Beatriz Scheidt\r\n\r\n\r\n<b>PROFESSORES ORIENTADORES</b>\r\n\r\nAlexandre
-    Thiesen\r\nPrograma\xE7\xE3o Front-End e Back-End\r\n\r\nBruno Martins de Abreu\r\nUser
-    Experience\r\nTestes\r\nPrograma\xE7\xE3o Front-End\r\nAnima\xE7\xE3o\r\n\r\nDaniel
-    Pinho Campos\r\nArte 2D\r\nArte 3D\r\n\r\nCl\xE1udio Roberto Martins\r\nGame
-    Design\r\nGest\xE3o T\xE9cnica do Projeto\r\n\r\n\r\n<b>EQUIPE DE DESENVOLVIMENTO</b>\r\n\r\nARTE
-    2D\r\n\r\nBernardo Rocha\r\nCaetano Ferre Madeira\r\nHeloisa Oliveira Konkel\r\n\r\nARTE
-    3D\r\n\r\nArthur Lostada Martins\r\nCau\xE3 Leandro Coelho\r\nEnzo Felipe Schlagel\r\n\r\n\r\nMOTION
-    DESIGN E ANIMA\xC7\xC3O\r\n\r\nGabriel Langa Gutjahr\r\nMatheus Ventura Soares\r\n\r\nPRODU\xC7\xC3O
-    DE \xC1UDIO\r\n\r\nAndriel Alessi Viegas\r\nFrancisco Scheidt\r\nGabriel Neckel
-    de Borba\r\nLuis Gustavo Naiate Jahn\r\nPhelipe Tamagno\r\n\r\nGAME DESIGN\r\n\r\nArthur
-    Veras Bonelli\r\nErick Lichtenfels Pudell\r\n\r\nPROGRAMA\xC7\xC3O BACK-END\r\n\r\nAntonio
-    Francisco dos Santos\r\nGustavo Serafim Manzoni\r\nJosue Ramos Figueiredo Petri\r\n\r\nPROGRAMA\xC7\xC3O
-    FRONT-END\r\n\r\nPedro Gabriel Vicente\r\n\r\nUSER EXPERIENCE E TESTES\r\n\r\nGuilherme
-    Dominoni Gon\xE7alves\r\nJulie Gabrielle Maia dos Santos\r\nSofia Silveira de
-    Souza\r\nVictor da Silva Ferreira\r\n"
+  m_text: "<b>PROJETO</b>\r\n\r\nDesenvolvido por\r\nAlunos e Professores do Senac Palho\xE7a\r\n\r\n\r\n<b>COORDENA\xC7\xC3O</b>\r\n\r\nCl\xE1udio Roberto Martins\r\nDanielle Martins Castro\r\nRenata Beatriz Scheidt\r\n\r\n\r\n<b>PROFESSORES ORIENTADORES</b>\r\n\r\nAlexandre Thiesen\r\nPrograma\xE7\xE3o Front-End e Back-End\r\n\r\nBruno Martins de Abreu\r\nUser Experience\r\nTestes\r\nPrograma\xE7\xE3o Front-End\r\nAnima\xE7\xE3o\r\n\r\nDaniel Pinho Campos\r\nArte 2D\r\nArte 3D\r\n\r\nCl\xE1udio Roberto Martins\r\nGame Design\r\nGest\xE3o T\xE9cnica do Projeto\r\n\r\n\r\n<b>EQUIPE DE DESENVOLVIMENTO</b>\r\n\r\nARTE 2D\r\n\r\nBernardo Rocha\r\nCaetano Ferre Madeira\r\nHeloisa Oliveira Konkel\r\n\r\nARTE 3D\r\n\r\nArthur Lostada Martins\r\nCau\xE3 Leandro Coelho\r\nEnzo Felipe Schlagel\r\n\r\n\r\nMOTION DESIGN E ANIMA\xC7\xC3O\r\n\r\nGabriel Langa Gutjahr\r\nMatheus Ventura Soares\r\n\r\nPRODU\xC7\xC3O DE \xC1UDIO\r\n\r\nAndriel Alessi Viegas\r\nFrancisco Scheidt\r\nGabriel Neckel de Borba\r\nLuis Gustavo Naiate Jahn\r\nPhelipe Tamagno\r\n\r\nGAME DESIGN\r\n\r\nArthur Veras Bonelli\r\nErick Lichtenfels Pudell\r\n\r\nPROGRAMA\xC7\xC3O BACK-END\r\n\r\nAntonio Francisco dos Santos\r\nGustavo Serafim Manzoni\r\nJosue Ramos Figueiredo Petri\r\n\r\nPROGRAMA\xC7\xC3O FRONT-END\r\n\r\nPedro Gabriel Vicente\r\n\r\nUSER EXPERIENCE E TESTES\r\n\r\nGuilherme Dominoni Gon\xE7alves\r\nJulie Gabrielle Maia dos Santos\r\nSofia Silveira de Souza\r\nVictor da Silva Ferreira\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -228,7 +212,7 @@ MonoBehaviour:
   m_linkedTextComponent: {fileID: 171054123}
   parentLinkedComponent: {fileID: 525526720}
   m_enableKerning: 0
-  m_ActiveFontFeatures: 6e72656b
+  m_ActiveFontFeatures: 6e72656bu
   m_enableExtraPadding: 0
   checkPaddingRequired: 0
   m_isRichText: 1
@@ -375,23 +359,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "<b>PROJETO</b>\r\n\r\nDesenvolvido por\r\nAlunos e Professores do Senac
-    Palho\xE7a\r\n\r\n\r\n<b>COORDENA\xC7\xC3O</b>\r\n\r\nCl\xE1udio Roberto Martins\r\nDanielle
-    Martins Castro\r\nRenata Beatriz Scheidt\r\n\r\n\r\n<b>PROFESSORES ORIENTADORES</b>\r\n\r\nAlexandre
-    Thiesen\r\nPrograma\xE7\xE3o Front-End e Back-End\r\n\r\nBruno Martins de Abreu\r\nUser
-    Experience\r\nTestes\r\nPrograma\xE7\xE3o Front-End\r\nAnima\xE7\xE3o\r\n\r\nDaniel
-    Pinho Campos\r\nArte 2D\r\nArte 3D\r\n\r\nCl\xE1udio Roberto Martins\r\nGame
-    Design\r\nGest\xE3o T\xE9cnica do Projeto\r\n\r\n\r\n<b>EQUIPE DE DESENVOLVIMENTO</b>\r\n\r\nARTE
-    2D\r\n\r\nBernardo Rocha\r\nCaetano Ferre Madeira\r\nHeloisa Oliveira Konkel\r\n\r\nARTE
-    3D\r\n\r\nArthur Lostada Martins\r\nCau\xE3 Leandro Coelho\r\nEnzo Felipe Schlagel\r\n\r\n\r\nMOTION
-    DESIGN E ANIMA\xC7\xC3O\r\n\r\nGabriel Langa Gutjahr\r\nMatheus Ventura Soares\r\n\r\nPRODU\xC7\xC3O
-    DE \xC1UDIO\r\n\r\nAndriel Alessi Viegas\r\nFrancisco Scheidt\r\nGabriel Neckel
-    de Borba\r\nLuis Gustavo Naiate Jahn\r\nPhelipe Tamagno\r\n\r\nGAME DESIGN\r\n\r\nArthur
-    Veras Bonelli\r\nErick Lichtenfels Pudell\r\n\r\nPROGRAMA\xC7\xC3O BACK-END\r\n\r\nAntonio
-    Francisco dos Santos\r\nGustavo Serafim Manzoni\r\nJosue Ramos Figueiredo Petri\r\n\r\nPROGRAMA\xC7\xC3O
-    FRONT-END\r\n\r\nPedro Gabriel Vicente\r\n\r\nUSER EXPERIENCE E TESTES\r\n\r\nGuilherme
-    Dominoni Gon\xE7alves\r\nJulie Gabrielle Maia dos Santos\r\nSofia Silveira de
-    Souza\r\nVictor da Silva Ferreira\r\n"
+  m_text: "<b>PROJETO</b>\r\n\r\nDesenvolvido por\r\nAlunos e Professores do Senac Palho\xE7a\r\n\r\n\r\n<b>COORDENA\xC7\xC3O</b>\r\n\r\nCl\xE1udio Roberto Martins\r\nDanielle Martins Castro\r\nRenata Beatriz Scheidt\r\n\r\n\r\n<b>PROFESSORES ORIENTADORES</b>\r\n\r\nAlexandre Thiesen\r\nPrograma\xE7\xE3o Front-End e Back-End\r\n\r\nBruno Martins de Abreu\r\nUser Experience\r\nTestes\r\nPrograma\xE7\xE3o Front-End\r\nAnima\xE7\xE3o\r\n\r\nDaniel Pinho Campos\r\nArte 2D\r\nArte 3D\r\n\r\nCl\xE1udio Roberto Martins\r\nGame Design\r\nGest\xE3o T\xE9cnica do Projeto\r\n\r\n\r\n<b>EQUIPE DE DESENVOLVIMENTO</b>\r\n\r\nARTE 2D\r\n\r\nBernardo Rocha\r\nCaetano Ferre Madeira\r\nHeloisa Oliveira Konkel\r\n\r\nARTE 3D\r\n\r\nArthur Lostada Martins\r\nCau\xE3 Leandro Coelho\r\nEnzo Felipe Schlagel\r\n\r\n\r\nMOTION DESIGN E ANIMA\xC7\xC3O\r\n\r\nGabriel Langa Gutjahr\r\nMatheus Ventura Soares\r\n\r\nPRODU\xC7\xC3O DE \xC1UDIO\r\n\r\nAndriel Alessi Viegas\r\nFrancisco Scheidt\r\nGabriel Neckel de Borba\r\nLuis Gustavo Naiate Jahn\r\nPhelipe Tamagno\r\n\r\nGAME DESIGN\r\n\r\nArthur Veras Bonelli\r\nErick Lichtenfels Pudell\r\n\r\nPROGRAMA\xC7\xC3O BACK-END\r\n\r\nAntonio Francisco dos Santos\r\nGustavo Serafim Manzoni\r\nJosue Ramos Figueiredo Petri\r\n\r\nPROGRAMA\xC7\xC3O FRONT-END\r\n\r\nPedro Gabriel Vicente\r\n\r\nUSER EXPERIENCE E TESTES\r\n\r\nGuilherme Dominoni Gon\xE7alves\r\nJulie Gabrielle Maia dos Santos\r\nSofia Silveira de Souza\r\nVictor da Silva Ferreira\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -441,7 +409,7 @@ MonoBehaviour:
   m_linkedTextComponent: {fileID: 0}
   parentLinkedComponent: {fileID: 33431746}
   m_enableKerning: 0
-  m_ActiveFontFeatures: 6e72656b
+  m_ActiveFontFeatures: 6e72656bu
   m_enableExtraPadding: 0
   checkPaddingRequired: 0
   m_isRichText: 1
@@ -471,6 +439,69 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 171054121}
   m_CullTransparentMesh: 1
+--- !u!1001 &194790816
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 958229517}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: a0f81ecae5e646c49bd7ea72c9832be4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.06036377
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0f81ecae5e646c49bd7ea72c9832be4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 77.70741
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0f81ecae5e646c49bd7ea72c9832be4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -18.28
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0f81ecae5e646c49bd7ea72c9832be4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0f81ecae5e646c49bd7ea72c9832be4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0f81ecae5e646c49bd7ea72c9832be4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0f81ecae5e646c49bd7ea72c9832be4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0f81ecae5e646c49bd7ea72c9832be4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0f81ecae5e646c49bd7ea72c9832be4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: a0f81ecae5e646c49bd7ea72c9832be4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a0f81ecae5e646c49bd7ea72c9832be4, type: 3}
+      propertyPath: m_Name
+      value: Mochila
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 65702495048144492, guid: a0f81ecae5e646c49bd7ea72c9832be4, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a0f81ecae5e646c49bd7ea72c9832be4, type: 3}
+--- !u!4 &194790817 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: a0f81ecae5e646c49bd7ea72c9832be4, type: 3}
+  m_PrefabInstance: {fileID: 194790816}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &210033334
 GameObject:
   m_ObjectHideFlags: 0
@@ -731,6 +762,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1038279169}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1038279170}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &341473121 stripped
 Transform:
@@ -768,7 +802,7 @@ Light:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 410087039}
   m_Enabled: 1
-  serializedVersion: 12
+  serializedVersion: 13
   m_Type: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 2
@@ -820,7 +854,7 @@ Light:
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ForceVisible: 0
-  m_ShadowRadius: 0
+  m_ShapeRadius: 0
   m_ShadowAngle: 0
   m_LightUnit: 1
   m_LuxAtDistance: 1
@@ -1000,6 +1034,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1174045039}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1174045040}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &418032378 stripped
 Transform:
@@ -1154,6 +1191,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1774201424}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1774201425}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &418239647 stripped
 Transform:
@@ -1308,6 +1348,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 962270102}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 962270103}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &418413122 stripped
 Transform:
@@ -1462,6 +1505,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1376955058}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1376955059}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &421057230 stripped
 Transform:
@@ -1647,6 +1693,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1484699439}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1484699440}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &471994520 stripped
 Transform:
@@ -1715,23 +1764,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "<b>PROJETO</b>\r\n\r\nDesenvolvido por\r\nAlunos e Professores do Senac
-    Palho\xE7a\r\n\r\n\r\n<b>COORDENA\xC7\xC3O</b>\r\n\r\nCl\xE1udio Roberto Martins\r\nDanielle
-    Martins Castro\r\nRenata Beatriz Scheidt\r\n\r\n\r\n<b>PROFESSORES ORIENTADORES</b>\r\n\r\nAlexandre
-    Thiesen\r\nPrograma\xE7\xE3o Front-End e Back-End\r\n\r\nBruno Martins de Abreu\r\nUser
-    Experience\r\nTestes\r\nPrograma\xE7\xE3o Front-End\r\nAnima\xE7\xE3o\r\n\r\nDaniel
-    Pinho Campos\r\nArte 2D\r\nArte 3D\r\n\r\nCl\xE1udio Roberto Martins\r\nGame
-    Design\r\nGest\xE3o T\xE9cnica do Projeto\r\n\r\n\r\n<b>EQUIPE DE DESENVOLVIMENTO</b>\r\n\r\nARTE
-    2D\r\n\r\nBernardo Rocha\r\nCaetano Ferre Madeira\r\nHeloisa Oliveira Konkel\r\n\r\nARTE
-    3D\r\n\r\nArthur Lostada Martins\r\nCau\xE3 Leandro Coelho\r\nEnzo Felipe Schlagel\r\n\r\n\r\nMOTION
-    DESIGN E ANIMA\xC7\xC3O\r\n\r\nGabriel Langa Gutjahr\r\nMatheus Ventura Soares\r\n\r\nPRODU\xC7\xC3O
-    DE \xC1UDIO\r\n\r\nAndriel Alessi Viegas\r\nFrancisco Scheidt\r\nGabriel Neckel
-    de Borba\r\nLuis Gustavo Naiate Jahn\r\nPhelipe Tamagno\r\n\r\nGAME DESIGN\r\n\r\nArthur
-    Veras Bonelli\r\nErick Lichtenfels Pudell\r\n\r\nPROGRAMA\xC7\xC3O BACK-END\r\n\r\nAntonio
-    Francisco dos Santos\r\nGustavo Serafim Manzoni\r\nJosue Ramos Figueiredo Petri\r\n\r\nPROGRAMA\xC7\xC3O
-    FRONT-END\r\n\r\nPedro Gabriel Vicente\r\n\r\nUSER EXPERIENCE E TESTES\r\n\r\nGuilherme
-    Dominoni Gon\xE7alves\r\nJulie Gabrielle Maia dos Santos\r\nSofia Silveira de
-    Souza\r\nVictor da Silva Ferreira\r\n"
+  m_text: "<b>PROJETO</b>\r\n\r\nDesenvolvido por\r\nAlunos e Professores do Senac Palho\xE7a\r\n\r\n\r\n<b>COORDENA\xC7\xC3O</b>\r\n\r\nCl\xE1udio Roberto Martins\r\nDanielle Martins Castro\r\nRenata Beatriz Scheidt\r\n\r\n\r\n<b>PROFESSORES ORIENTADORES</b>\r\n\r\nAlexandre Thiesen\r\nPrograma\xE7\xE3o Front-End e Back-End\r\n\r\nBruno Martins de Abreu\r\nUser Experience\r\nTestes\r\nPrograma\xE7\xE3o Front-End\r\nAnima\xE7\xE3o\r\n\r\nDaniel Pinho Campos\r\nArte 2D\r\nArte 3D\r\n\r\nCl\xE1udio Roberto Martins\r\nGame Design\r\nGest\xE3o T\xE9cnica do Projeto\r\n\r\n\r\n<b>EQUIPE DE DESENVOLVIMENTO</b>\r\n\r\nARTE 2D\r\n\r\nBernardo Rocha\r\nCaetano Ferre Madeira\r\nHeloisa Oliveira Konkel\r\n\r\nARTE 3D\r\n\r\nArthur Lostada Martins\r\nCau\xE3 Leandro Coelho\r\nEnzo Felipe Schlagel\r\n\r\n\r\nMOTION DESIGN E ANIMA\xC7\xC3O\r\n\r\nGabriel Langa Gutjahr\r\nMatheus Ventura Soares\r\n\r\nPRODU\xC7\xC3O DE \xC1UDIO\r\n\r\nAndriel Alessi Viegas\r\nFrancisco Scheidt\r\nGabriel Neckel de Borba\r\nLuis Gustavo Naiate Jahn\r\nPhelipe Tamagno\r\n\r\nGAME DESIGN\r\n\r\nArthur Veras Bonelli\r\nErick Lichtenfels Pudell\r\n\r\nPROGRAMA\xC7\xC3O BACK-END\r\n\r\nAntonio Francisco dos Santos\r\nGustavo Serafim Manzoni\r\nJosue Ramos Figueiredo Petri\r\n\r\nPROGRAMA\xC7\xC3O FRONT-END\r\n\r\nPedro Gabriel Vicente\r\n\r\nUSER EXPERIENCE E TESTES\r\n\r\nGuilherme Dominoni Gon\xE7alves\r\nJulie Gabrielle Maia dos Santos\r\nSofia Silveira de Souza\r\nVictor da Silva Ferreira\r\n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1781,7 +1814,7 @@ MonoBehaviour:
   m_linkedTextComponent: {fileID: 33431746}
   parentLinkedComponent: {fileID: 0}
   m_enableKerning: 0
-  m_ActiveFontFeatures: 6e72656b
+  m_ActiveFontFeatures: 6e72656bu
   m_enableExtraPadding: 0
   checkPaddingRequired: 0
   m_isRichText: 1
@@ -2020,6 +2053,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 950520218}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 950520219}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &578898013 stripped
 Transform:
@@ -2174,6 +2210,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1579492058}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1579492059}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &586179448 stripped
 Transform:
@@ -2364,6 +2403,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2019192620}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2019192621}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &688991256 stripped
 Transform:
@@ -2523,12 +2565,127 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2001918237}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2001918238}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &792386945 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 137138646684927071, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
   m_PrefabInstance: {fileID: 792386944}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &805980378
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 805980379}
+  - component: {fileID: 805980382}
+  - component: {fileID: 805980381}
+  - component: {fileID: 805980380}
+  m_Layer: 0
+  m_Name: Cube
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &805980379
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 805980378}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.54, z: -21.29}
+  m_LocalScale: {x: 2265.0703, y: 308.5, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 958229517}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &805980380
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 805980378}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &805980381
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 805980378}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 5b602f79255dadd4291589aa40d1b884, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_MaskInteraction: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &805980382
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 805980378}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -2573,6 +2730,118 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &838724025
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 838724026}
+  - component: {fileID: 838724029}
+  - component: {fileID: 838724028}
+  - component: {fileID: 838724027}
+  m_Layer: 0
+  m_Name: Floor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &838724026
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 838724025}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.26, y: 0, z: 2.32}
+  m_LocalScale: {x: 50, y: 0.033606, z: 50}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 958229517}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &838724027
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 838724025}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!23 &838724028
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 838724025}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 05af3616da99b7d41ab14aebe0ca70ca, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_MaskInteraction: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &838724029
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 838724025}
+  m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &863888500
 GameObject:
   m_ObjectHideFlags: 0
@@ -2608,12 +2877,12 @@ MonoBehaviour:
   opMode: 1
   resetHmdPoseOnRelease: 1
   resetHmdPoseByMiddleMouseButton: 1
-  activateKeys: 3201000031010000
+  activateKeys: 3201000031010000i
   activateKeyBindings:
   - <Keyboard>/leftCtrl
   - <Keyboard>/rightCtrl
   - <Keyboard>/f1
-  pitchKeys: 3401000033010000
+  pitchKeys: 3401000033010000i
   pitchKeyBindings:
   - <Keyboard>/leftAlt
   - <Keyboard>/rightAlt
@@ -3126,6 +3395,105 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 950520207}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &950520219
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 950520204}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 950520207}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 52 - 53
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 950520207}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!1001 &958229516
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2491311866277239106, guid: 7547ce80da59b314fbb16065a1676e09, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -876.8596
+      objectReference: {fileID: 0}
+    - target: {fileID: 2491311866277239106, guid: 7547ce80da59b314fbb16065a1676e09, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2491311866277239106, guid: 7547ce80da59b314fbb16065a1676e09, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1544.1688
+      objectReference: {fileID: 0}
+    - target: {fileID: 2491311866277239106, guid: 7547ce80da59b314fbb16065a1676e09, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2491311866277239106, guid: 7547ce80da59b314fbb16065a1676e09, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2491311866277239106, guid: 7547ce80da59b314fbb16065a1676e09, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2491311866277239106, guid: 7547ce80da59b314fbb16065a1676e09, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2491311866277239106, guid: 7547ce80da59b314fbb16065a1676e09, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2491311866277239106, guid: 7547ce80da59b314fbb16065a1676e09, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2491311866277239106, guid: 7547ce80da59b314fbb16065a1676e09, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9198538440178154219, guid: 7547ce80da59b314fbb16065a1676e09, type: 3}
+      propertyPath: m_Name
+      value: PG_24-25
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 2491311866277239106, guid: 7547ce80da59b314fbb16065a1676e09, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 194790817}
+    - targetCorrespondingSourceObject: {fileID: 2491311866277239106, guid: 7547ce80da59b314fbb16065a1676e09, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2085605906}
+    - targetCorrespondingSourceObject: {fileID: 2491311866277239106, guid: 7547ce80da59b314fbb16065a1676e09, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1188744373}
+    - targetCorrespondingSourceObject: {fileID: 2491311866277239106, guid: 7547ce80da59b314fbb16065a1676e09, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 838724026}
+    - targetCorrespondingSourceObject: {fileID: 2491311866277239106, guid: 7547ce80da59b314fbb16065a1676e09, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 805980379}
+    - targetCorrespondingSourceObject: {fileID: 2491311866277239106, guid: 7547ce80da59b314fbb16065a1676e09, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1675126108}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7547ce80da59b314fbb16065a1676e09, type: 3}
+--- !u!4 &958229517 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2491311866277239106, guid: 7547ce80da59b314fbb16065a1676e09, type: 3}
+  m_PrefabInstance: {fileID: 958229516}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &961094765
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3274,6 +3642,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 961094780}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 961094781}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &961094766 stripped
 Transform:
@@ -3449,6 +3820,25 @@ MonoBehaviour:
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
 --- !u!114 &961094780
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 510090939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 961094769}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 24 - 25
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 961094769}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &961094781
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3659,6 +4049,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 962270091}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &962270103
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 962270088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 962270091}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 30 - 31
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 962270091}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &970625576
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3807,6 +4216,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 970625591}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 970625592}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &970625577 stripped
 Transform:
@@ -4000,6 +4412,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 970625580}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &970625592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 296333022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 970625580}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 12 - 13
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 970625580}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &973593075
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4148,6 +4579,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 973593091}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 973593092}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &973593076 stripped
 Transform:
@@ -4341,6 +4775,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 973593079}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &973593092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 27693134}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 973593079}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 18 - 19
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 973593079}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1012893225
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4489,6 +4942,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1012893240}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1012893241}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1012893226 stripped
 Transform:
@@ -4682,6 +5138,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1012893229}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1012893241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 219989820}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1012893229}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 48 - 49
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1012893229}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &1027051866 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
@@ -4835,6 +5310,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1033243824}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1033243825}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1033243810 stripped
 Transform:
@@ -5028,6 +5506,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1033243813}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1033243825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 50421535}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1033243813}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 10 - 11
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1033243813}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &1038279155 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
@@ -5202,6 +5699,25 @@ MonoBehaviour:
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
 --- !u!114 &1038279169
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1038279155}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1038279158}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 28 - 29
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1038279158}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1038279170
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5654,6 +6170,87 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1174045028}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1174045040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1174045025}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1174045028}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 08 - 09
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1174045028}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!1001 &1188744372
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 958229517}
+    m_Modifications:
+    - target: {fileID: 8546777110266537788, guid: 46597be85c0e9e04fa827063960b9e4e, type: 3}
+      propertyPath: m_Name
+      value: LowPolySword
+      objectReference: {fileID: 0}
+    - target: {fileID: 9067875611272297862, guid: 46597be85c0e9e04fa827063960b9e4e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.0640259
+      objectReference: {fileID: 0}
+    - target: {fileID: 9067875611272297862, guid: 46597be85c0e9e04fa827063960b9e4e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9067875611272297862, guid: 46597be85c0e9e04fa827063960b9e4e, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.7819824
+      objectReference: {fileID: 0}
+    - target: {fileID: 9067875611272297862, guid: 46597be85c0e9e04fa827063960b9e4e, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9067875611272297862, guid: 46597be85c0e9e04fa827063960b9e4e, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9067875611272297862, guid: 46597be85c0e9e04fa827063960b9e4e, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9067875611272297862, guid: 46597be85c0e9e04fa827063960b9e4e, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9067875611272297862, guid: 46597be85c0e9e04fa827063960b9e4e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9067875611272297862, guid: 46597be85c0e9e04fa827063960b9e4e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9067875611272297862, guid: 46597be85c0e9e04fa827063960b9e4e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 46597be85c0e9e04fa827063960b9e4e, type: 3}
+--- !u!4 &1188744373 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9067875611272297862, guid: 46597be85c0e9e04fa827063960b9e4e, type: 3}
+  m_PrefabInstance: {fileID: 1188744372}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1251862674
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5802,6 +6399,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1251862689}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1251862690}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1251862675 stripped
 Transform:
@@ -5977,6 +6577,25 @@ MonoBehaviour:
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
 --- !u!114 &1251862689
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1027051866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1251862678}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 16 - 17
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1251862678}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1251862690
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6926,6 +7545,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1376955047}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1376955059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1376955044}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1376955047}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 26 - 27
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1376955047}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &1483148990
 GameObject:
   m_ObjectHideFlags: 0
@@ -7247,6 +7885,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1484699428}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1484699440
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1484699425}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1484699428}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 36 - 37
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1484699428}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1501932298
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7395,6 +8052,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1501932313}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1501932314}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1501932299 stripped
 Transform:
@@ -7588,6 +8248,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1501932302}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1501932314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1265323496}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1501932302}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 44 - 45
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1501932302}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &1518676934
 GameObject:
   m_ObjectHideFlags: 0
@@ -7665,6 +8344,7 @@ Canvas:
   m_OverridePixelPerfect: 0
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 0
+  m_UseReflectionProbes: 0
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
@@ -7725,9 +8405,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 555725d48e9051a4bb6b8d45178c2fdd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectionSurfaceType: 0
-  overlayType: 1
-  compositionDepth: 0
   hidden: 0
   overridePerLayerColorScaleAndOffset: 0
   colorScale: {x: 1, y: 1, z: 1, w: 1}
@@ -7774,7 +8451,6 @@ MonoBehaviour:
   _colorLutTargetTexture: {fileID: 0}
   _lutWeight: 1
   _flipLutY: 1
-  serializedSurfaceGeometry: []
   textureOpacity_: 1
   edgeRenderingEnabled_: 0
   edgeColor_: {r: 1, g: 1, b: 1, a: 1}
@@ -8053,6 +8729,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1579492047}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1579492059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1579492044}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1579492047}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 22 - 23
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1579492047}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &1602455436
 GameObject:
   m_ObjectHideFlags: 0
@@ -8085,6 +8780,98 @@ Transform:
   - {fileID: 58822093}
   m_Father: {fileID: 1083740433}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1675126107
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1675126108}
+  - component: {fileID: 1675126110}
+  - component: {fileID: 1675126109}
+  m_Layer: 0
+  m_Name: Camera
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1675126108
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1675126107}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 958229517}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!81 &1675126109
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1675126107}
+  m_Enabled: 1
+--- !u!20 &1675126110
+Camera:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1675126107}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_projectionMatrixMode: 1
+  m_GateFitMode: 2
+  m_FOVAxisMode: 0
+  m_Iso: 200
+  m_ShutterSpeed: 0.005
+  m_Aperture: 16
+  m_FocusDistance: 10
+  m_FocalLength: 50
+  m_BladeCount: 5
+  m_Curvature: {x: 2, y: 11}
+  m_BarrelClipping: 0.25
+  m_Anamorphism: 0
+  m_SensorSize: {x: 36, y: 24}
+  m_LensShift: {x: 0, y: 0}
+  m_NormalizedViewPortRect:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1
+    height: 1
+  near clip plane: 0.3
+  far clip plane: 1000
+  field of view: 60
+  orthographic: 0
+  orthographic size: 5
+  m_Depth: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_RenderingPath: -1
+  m_TargetTexture: {fileID: 0}
+  m_TargetDisplay: 0
+  m_TargetEye: 3
+  m_HDR: 1
+  m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
+  m_ForceIntoRT: 0
+  m_OcclusionCulling: 1
+  m_StereoConvergence: 10
+  m_StereoSeparation: 0.022
 --- !u!1 &1689984644
 GameObject:
   m_ObjectHideFlags: 0
@@ -8329,6 +9116,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1695357021}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1695357022}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1695357007 stripped
 Transform:
@@ -8522,6 +9312,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1695357010}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1695357022
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 537113188}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1695357010}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 34 - 35
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1695357010}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1708585278
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8670,6 +9479,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1708585293}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1708585294}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1708585279 stripped
 Transform:
@@ -8863,6 +9675,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1708585282}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1708585294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 378586904}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1708585282}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 20 - 21
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1708585282}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1745562471
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9011,6 +9842,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1745562486}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1745562487}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1745562472 stripped
 Transform:
@@ -9186,6 +10020,25 @@ MonoBehaviour:
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
 --- !u!114 &1745562486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1345063863}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1745562475}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 38 - 39
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1745562475}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1745562487
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9475,6 +10328,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1774201413}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1774201425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1774201410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1774201413}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 50 - 51
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1774201413}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1809305965
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9623,6 +10495,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1809305980}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1809305981}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1809305966 stripped
 Transform:
@@ -9816,6 +10691,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1809305969}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1809305981
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1530958681}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1809305969}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 14 - 15
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1809305969}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1872001152
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9964,6 +10858,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1872001167}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1872001168}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1872001153 stripped
 Transform:
@@ -10157,6 +11054,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1872001156}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1872001168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 625041361}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1872001156}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 40 - 41
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1872001156}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1911475907
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10305,6 +11221,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1911475922}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1911475923}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1911475908 stripped
 Transform:
@@ -10480,6 +11399,25 @@ MonoBehaviour:
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
 --- !u!114 &1911475922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 940381218}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1911475911}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 46 - 47
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1911475911}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1911475923
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10690,6 +11628,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 2001918226}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &2001918238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2001918223}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 2001918226}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 42 - 43
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 2001918226}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &2019192606 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
@@ -10882,6 +11839,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 2019192609}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &2019192621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2019192606}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 2019192609}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 32 - 33
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 2019192609}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &2047298411
 GameObject:
   m_ObjectHideFlags: 0
@@ -10926,6 +11902,68 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0c0f19aa099f4bdd810aca9000b29fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1001 &2085605905
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 958229517}
+    m_Modifications:
+    - target: {fileID: 8387555674136425850, guid: 9897b46624cb93242a7508e5aa5e8ee1, type: 3}
+      propertyPath: m_Name
+      value: Pinto_Jr
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164057640043999168, guid: 9897b46624cb93242a7508e5aa5e8ee1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.0640259
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164057640043999168, guid: 9897b46624cb93242a7508e5aa5e8ee1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 76.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164057640043999168, guid: 9897b46624cb93242a7508e5aa5e8ee1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -18.26
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164057640043999168, guid: 9897b46624cb93242a7508e5aa5e8ee1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164057640043999168, guid: 9897b46624cb93242a7508e5aa5e8ee1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164057640043999168, guid: 9897b46624cb93242a7508e5aa5e8ee1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164057640043999168, guid: 9897b46624cb93242a7508e5aa5e8ee1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164057640043999168, guid: 9897b46624cb93242a7508e5aa5e8ee1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164057640043999168, guid: 9897b46624cb93242a7508e5aa5e8ee1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164057640043999168, guid: 9897b46624cb93242a7508e5aa5e8ee1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9897b46624cb93242a7508e5aa5e8ee1, type: 3}
+--- !u!4 &2085605906 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 9164057640043999168, guid: 9897b46624cb93242a7508e5aa5e8ee1, type: 3}
+  m_PrefabInstance: {fileID: 2085605905}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2249863302774605482
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11063,8 +12101,9 @@ SceneRoots:
   - {fileID: 549837943}
   - {fileID: 1573155594}
   - {fileID: 2047298412}
-  - {fileID: 1331121215}
   - {fileID: 1130376226}
   - {fileID: 1518676938}
+  - {fileID: 1331121215}
   - {fileID: 1746448179}
   - {fileID: 1483148992}
+  - {fileID: 958229516}
