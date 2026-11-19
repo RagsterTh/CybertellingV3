@@ -708,6 +708,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1038279172}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1038279173}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &341473121 stripped
 Transform:
@@ -986,6 +989,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1174045042}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1174045043}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &418032378 stripped
 Transform:
@@ -1149,6 +1155,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1774201427}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1774201428}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &418239647 stripped
 Transform:
@@ -1312,6 +1321,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 962270105}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 962270106}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &418413122 stripped
 Transform:
@@ -1475,6 +1487,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1376955061}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1376955062}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &421057230 stripped
 Transform:
@@ -1669,6 +1684,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1484699442}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1484699443}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &471994520 stripped
 Transform:
@@ -2035,6 +2053,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 950520221}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 950520222}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &578898013 stripped
 Transform:
@@ -2198,6 +2219,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1579492061}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1579492062}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &586179448 stripped
 Transform:
@@ -2397,6 +2421,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2019192623}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2019192624}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &688991256 stripped
 Transform:
@@ -2565,6 +2592,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2001918240}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2001918241}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &792386945 stripped
 Transform:
@@ -3225,6 +3255,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 950520207}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &950520222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 950520204}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 950520207}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 52 - 53
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 950520207}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &961094765
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3382,6 +3431,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 961094783}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 961094784}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &961094766 stripped
 Transform:
@@ -3614,6 +3666,25 @@ MonoBehaviour:
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
 --- !u!114 &961094783
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 510090939}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 961094769}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 24 - 25
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 961094769}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &961094784
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3881,6 +3952,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 962270091}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &962270106
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 962270088}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 962270091}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 30 - 31
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 962270091}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &970625576
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4038,6 +4128,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 970625594}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 970625595}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &970625577 stripped
 Transform:
@@ -4288,6 +4381,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 970625580}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &970625595
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 296333022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 970625580}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 12 - 13
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 970625580}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &973593075
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4445,6 +4557,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 973593094}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 973593095}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &973593076 stripped
 Transform:
@@ -4695,6 +4810,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 973593079}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &973593095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 27693134}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 973593079}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 18 - 19
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 973593079}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1012893225
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4852,6 +4986,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1012893243}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1012893244}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1012893226 stripped
 Transform:
@@ -5102,6 +5239,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1012893229}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1012893244
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 219989820}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1012893229}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 48 - 49
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1012893229}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &1027051866 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
@@ -5264,6 +5420,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1033243827}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1033243828}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1033243810 stripped
 Transform:
@@ -5496,6 +5655,25 @@ MonoBehaviour:
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
 --- !u!114 &1033243827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 50421535}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1033243813}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 10 - 11
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1033243813}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1033243828
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -5763,6 +5941,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1038279158}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1038279173
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1038279155}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1038279158}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 28 - 29
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1038279158}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &1083740432
 GameObject:
   m_ObjectHideFlags: 0
@@ -5972,6 +6169,63 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1172702677
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6571883241069794782, guid: add2d2e86783ec6419972cdaf4390b3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.81541
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571883241069794782, guid: add2d2e86783ec6419972cdaf4390b3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571883241069794782, guid: add2d2e86783ec6419972cdaf4390b3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.62879
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571883241069794782, guid: add2d2e86783ec6419972cdaf4390b3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571883241069794782, guid: add2d2e86783ec6419972cdaf4390b3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571883241069794782, guid: add2d2e86783ec6419972cdaf4390b3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571883241069794782, guid: add2d2e86783ec6419972cdaf4390b3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571883241069794782, guid: add2d2e86783ec6419972cdaf4390b3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571883241069794782, guid: add2d2e86783ec6419972cdaf4390b3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6571883241069794782, guid: add2d2e86783ec6419972cdaf4390b3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9213764832618748370, guid: add2d2e86783ec6419972cdaf4390b3d, type: 3}
+      propertyPath: m_Name
+      value: PG_04-05
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: add2d2e86783ec6419972cdaf4390b3d, type: 3}
 --- !u!1 &1172999828
 GameObject:
   m_ObjectHideFlags: 0
@@ -6254,6 +6508,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1174045028}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1174045043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1174045025}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1174045028}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 08 - 09
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1174045028}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1251862674
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6411,6 +6684,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1251862692}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1251862693}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1251862675 stripped
 Transform:
@@ -6643,6 +6919,25 @@ MonoBehaviour:
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
 --- !u!114 &1251862692
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1027051866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1251862678}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 16 - 17
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1251862678}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1251862693
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -7649,6 +7944,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1376955047}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1376955062
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1376955044}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1376955047}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 26 - 27
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1376955047}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &1483148990
 GameObject:
   m_ObjectHideFlags: 0
@@ -8027,6 +8341,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1484699428}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1484699443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1484699425}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1484699428}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 36 - 37
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1484699428}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1501932298
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8184,6 +8517,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1501932316}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1501932317}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1501932299 stripped
 Transform:
@@ -8416,6 +8752,25 @@ MonoBehaviour:
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
 --- !u!114 &1501932316
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1265323496}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1501932302}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 44 - 45
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1501932302}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1501932317
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8953,6 +9308,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1579492047}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1579492062
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1579492044}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1579492047}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 22 - 23
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1579492047}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &1602455436
 GameObject:
   m_ObjectHideFlags: 0
@@ -9238,6 +9612,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1695357024}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1695357025}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1695357007 stripped
 Transform:
@@ -9488,6 +9865,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1695357010}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1695357025
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 537113188}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1695357010}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 34 - 35
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1695357010}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1708585278
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9645,6 +10041,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1708585296}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1708585297}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1708585279 stripped
 Transform:
@@ -9895,6 +10294,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1708585282}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1708585297
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 378586904}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1708585282}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 20 - 21
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1708585282}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1745562471
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10052,6 +10470,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1745562489}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1745562490}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1745562472 stripped
 Transform:
@@ -10284,6 +10705,25 @@ MonoBehaviour:
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
 --- !u!114 &1745562489
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1345063863}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1745562475}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 38 - 39
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1745562475}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1745562490
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10630,6 +11070,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1774201413}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1774201428
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1774201410}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1774201413}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 50 - 51
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1774201413}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1809305965
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10787,6 +11246,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1809305983}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1809305984}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1809305966 stripped
 Transform:
@@ -11037,6 +11499,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1809305969}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1809305984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1530958681}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1809305969}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 14 - 15
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1809305969}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1872001152
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11194,6 +11675,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1872001170}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1872001171}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1872001153 stripped
 Transform:
@@ -11444,6 +11928,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 1872001156}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &1872001171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 625041361}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1872001156}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 40 - 41
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1872001156}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1001 &1911475907
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11601,6 +12104,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
       insertIndex: -1
       addedObject: {fileID: 1911475925}
+    - targetCorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1911475926}
   m_SourcePrefab: {fileID: 100100000, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
 --- !u!4 &1911475908 stripped
 Transform:
@@ -11833,6 +12339,25 @@ MonoBehaviour:
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
 --- !u!114 &1911475925
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 940381218}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 1911475911}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 46 - 47
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 1911475911}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
+--- !u!114 &1911475926
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -12100,6 +12625,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 2001918226}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &2001918241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2001918223}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 2001918226}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 42 - 43
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 2001918226}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &2019192606 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 180164026863447502, guid: 4b780d430791a5442a364c47be47df2d, type: 3}
@@ -12349,6 +12893,25 @@ MonoBehaviour:
   mCastedBehaviour: {fileID: 2019192609}
   mMeshFilter: {fileID: 0}
   mMeshRenderer: {fileID: 0}
+--- !u!114 &2019192624
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2019192606}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1778676317, guid: 8a9a760f95896c34689febc965510927, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Vuforia.Unity.Engine.dll::Vuforia.ImageTargetPreview
+  mObserverBehaviour: {fileID: 2019192609}
+  mHiddenRoot: {fileID: 0}
+  mTargetName: Pag 32 - 33
+  mDatasetName: Vuforia/QuestVuforiaTargets.xml
+  mCastedBehaviour: {fileID: 2019192609}
+  mMeshFilter: {fileID: 0}
+  mMeshRenderer: {fileID: 0}
 --- !u!1 &2047298411
 GameObject:
   m_ObjectHideFlags: 0
@@ -12535,3 +13098,4 @@ SceneRoots:
   - {fileID: 1331121215}
   - {fileID: 1746448179}
   - {fileID: 1483148992}
+  - {fileID: 1172702677}
